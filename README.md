@@ -66,7 +66,7 @@ For that, we can just create another table. This is done in our **init_quotes_ta
 
 **Schema:**
 
-![Schema](schema.png)
+![Schema](Schema.png)
 
 (I'll explain all the columns later don't worry!)
 
