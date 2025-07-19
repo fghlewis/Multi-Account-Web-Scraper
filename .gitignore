@@ -1,0 +1,11 @@
+# Python cache files (unnecessary for understanding)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter autosave checkpoints (just clutter)
+.ipynb_checkpoints/
+
+# OS system files (Mac/Windows fluff)
+.DS_Store
+Thumbs.db
